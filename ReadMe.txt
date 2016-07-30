@@ -29,12 +29,12 @@ http://www.cnblogs.com/panchunting/category/540375.html
 http://www.cnblogs.com/panchunting/p/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application.html
 http://www.cnblogs.com/haogj/archive/2012/02/17/2356537.html
 
-3. 权限系统设计
+3. Permissions System
 http://www.cnblogs.com/hanyinglong/archive/2013/03/22/2976478.html
 http://www.cnblogs.com/hanyinglong/archive/2012/12/13/mvc.html
 http://www.cnblogs.com/zengxiangzhan/archive/2012/10/21/2733115.html
 
-4. 源码
+4. Source
 https://github.com/wenpengfei/MicrosoftNLayerApp-63638--V2.0.02-
 https://github.com/arashkarami/nlayeredMVC
 
